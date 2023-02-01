@@ -1,5 +1,12 @@
-##Getting Started
+# Getting Started
 First Open Terminal
+
+## cloning project
+for cloning this project use :
+````
+git clone https://github.com/sahrilputra/ifest-ua.git
+````
+if already have the project lets getting started by use: 
 ````
 npm install 'or' yarn install
 ````
